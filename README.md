@@ -1,4 +1,6 @@
-# 💫 About Me:
+## MCA Graduate | Aspiring Data Analyst  
+SQL | Python | Excel | Power BI | Tableau (Learning) | Machine Learning (Beginner)
+
 ## 👋 About Me<br><br>🎓 I have completed my Master of Computer Applications (MCA) and I am an aspiring **Data Analyst** with a strong interest in extracting meaningful insights from data.<br><br>🔭 I’m currently working on data analytics projects using SQL, Python, Excel, and Power BI, focusing on data cleaning, analysis, and visualization using real-world datasets.<br><br>👯 I’m looking to collaborate on data analysis, dashboarding, SQL, and beginner-friendly machine learning projects where I can learn, contribute, and grow professionally.<br><br>🤝 I’m looking for guidance and support in advanced analytics concepts, real-time business problem solving, and industry-level data projects.<br><br>🌱 I’m currently learning Tableau and Machine Learning fundamentals** to enhance my data visualization and predictive analytics skills.<br><br>💬 Ask me about SQL queries, data analysis using Python, exploratory data analysis (EDA), Power BI dashboards, Excel analytics, and data visualization techniques.<br><br>⚡ Fun fact: I enjoy transforming raw, unstructured data into clear insights and impactful dashboards that support better decision-making 📊.<br>
 
 
